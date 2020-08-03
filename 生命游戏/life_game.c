@@ -4,12 +4,7 @@ int main(void) {
 	bool ban[2][SIZE + 2][SIZE + 2] = { false };
 	newban(ban[0]);
 
-	for (register int layer = 0;/* getchar()=='\n'*/layer<10000; layer++) {
-		//printf("第%d层\n", layer+1);
-		//print(ban[layer % 2]);
-		survive(ban[layer % 2], ban[1 - (layer % 2)]);
-	}
-	print(ban[0]);
+	
 	for (register int layer = 0; getchar()=='\n'; layer++) {
 		printf("第%d层\n", layer+1);
 		print(ban[layer % 2]);

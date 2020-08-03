@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include<stdlib.h>
 
-#define SIZE 200
+#define SIZE 20
 #define NEIGHBOR 3
 
 void print(bool ban[SIZE + 2][SIZE + 2]);
