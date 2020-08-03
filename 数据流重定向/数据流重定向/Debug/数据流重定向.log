@@ -1,0 +1,4 @@
+﻿  重定向.c
+H:\WORK\ELEC\C&C++\C学习\数据流重定向\数据流重定向\重定向.c(2,34): warning C4083: 应输入“newline”；找到标识符“；”
+H:\WORK\ELEC\C&C++\C学习\数据流重定向\数据流重定向\重定向.c(25): warning C4716: “strings”: 必须返回一个值
+  数据流重定向.vcxproj -> H:\WORK\ELEC\C&C++\C学习\数据流重定向\数据流重定向\Debug\数据流重定向.exe

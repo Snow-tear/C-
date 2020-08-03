@@ -1,0 +1,2 @@
+H:\WORK\ELEC\C&C++\C学习\数据流重定向\数据流重定向\Debug\数据流重定向.exe
+H:\WORK\ELEC\C&C++\C学习\数据流重定向\数据流重定向\Debug\数据流重定向.pdb

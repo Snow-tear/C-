@@ -1,0 +1,4 @@
+﻿  getchar() & putchar().c
+H:\WORK\ELEC\C&C++\C学习\IO\getchar() & putchar().c(30,15): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+H:\WORK\ELEC\C&C++\C学习\IO\getchar() & putchar().c(35,15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  IO.vcxproj -> H:\WORK\ELEC\C&C++\C学习\IO\Debug\IO.exe

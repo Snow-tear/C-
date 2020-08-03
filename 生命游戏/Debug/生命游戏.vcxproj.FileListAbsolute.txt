@@ -1,0 +1,2 @@
+H:\WORK\ELEC\C&C++\C学习\生命游戏\Debug\生命游戏.exe
+H:\WORK\ELEC\C&C++\C学习\生命游戏\Debug\生命游戏.pdb

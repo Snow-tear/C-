@@ -1,0 +1,2 @@
+H:\WORK\ELEC\C&C++\C学习\IO\Debug\IO.exe
+H:\WORK\ELEC\C&C++\C学习\IO\Debug\IO.pdb
