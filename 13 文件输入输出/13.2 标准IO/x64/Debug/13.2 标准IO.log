@@ -1,0 +1,5 @@
+﻿  main.c
+  精简.c
+  正在生成代码...
+H:\WORK\ELEC\C&C++\C学习\13 文件输入输出\13.2 标准IO\精简.c(11): warning C4716: “精简”: 必须返回一个值
+  13.2 标准IO.vcxproj -> H:\WORK\ELEC\C&C++\C学习\13 文件输入输出\x64\Debug\13.2 标准IO.exe

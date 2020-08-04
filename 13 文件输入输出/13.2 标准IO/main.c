@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+#pragma warning(disable:4996)
 int 高级(int argc, char* argv[]) {
 	int ch;	//读取文件时, 存储每个字节的地方
 	FILE* fp;	//"文件指针"
