@@ -20,9 +20,7 @@ int main(int argc, char* argv[]) {
 	}
 	char* string = calloc(count, sizeof(char));
 	fseek(fp, 0L, SEEK_SET);
-	for (count = 0; (ch = getc(fp)) != EOF; count++) {
-		string[count] = ch;
-	}
+	fgets(string, count, fp);
 	string[count + 1] = '\0';
 	printf("%s", string);
 	getchar();

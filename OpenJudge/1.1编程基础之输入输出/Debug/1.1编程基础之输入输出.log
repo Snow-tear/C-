@@ -1,0 +1,5 @@
+﻿  对齐输出.c
+H:\WORK\ELEC\C&C++\C学习\OpenJudge\1.1编程基础之输入输出\对齐输出.c(8,36): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+H:\WORK\ELEC\C&C++\C学习\OpenJudge\1.1编程基础之输入输出\对齐输出.c(8,36): message : 请考虑在格式字符串中使用“%lld”
+H:\WORK\ELEC\C&C++\C学习\OpenJudge\1.1编程基础之输入输出\对齐输出.c(8,36): message : 请考虑在格式字符串中使用“%I64d”
+  1.1编程基础之输入输出.vcxproj -> H:\WORK\ELEC\C&C++\C学习\OpenJudge\Debug\1.1编程基础之输入输出.exe
