@@ -23,6 +23,7 @@ int main(int argc, char* argv[]) {
 
 void changeMix2name(struct phone* mix2p)
 {
+	mix2p->name = malloc(strlen("chiron")+1);
 	strcpy(mix2p->name, "chiron");
 }
 

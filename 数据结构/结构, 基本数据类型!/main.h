@@ -5,7 +5,7 @@
 #include<string.h>
 
 struct phone {
-	char name[1024];
+	char *name;
 	float size;
 	int value;
 };
