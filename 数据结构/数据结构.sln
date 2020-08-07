@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct", "struct\struct.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Openjudge 生日相同", "Openjudge 生日相同\Openjudge 生日相同.vcxproj", "{B2369044-DFE3-48E5-8703-9680390D147A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "结构, 基本数据类型!", "结构, 基本数据类型!\结构, 基本数据类型!.vcxproj", "{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B2369044-DFE3-48E5-8703-9680390D147A}.Release|x64.Build.0 = Release|x64
 		{B2369044-DFE3-48E5-8703-9680390D147A}.Release|x86.ActiveCfg = Release|Win32
 		{B2369044-DFE3-48E5-8703-9680390D147A}.Release|x86.Build.0 = Release|Win32
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Debug|x64.ActiveCfg = Debug|x64
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Debug|x64.Build.0 = Debug|x64
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Debug|x86.Build.0 = Debug|Win32
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Release|x64.ActiveCfg = Release|x64
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Release|x64.Build.0 = Release|x64
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Release|x86.ActiveCfg = Release|Win32
+		{6F903F9B-182A-4CFE-9E6D-90B218E0B0F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
