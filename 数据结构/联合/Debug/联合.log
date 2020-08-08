@@ -1,3 +1,4 @@
 ﻿  main.c
-H:\WORK\ELEC\C&C++\C学习\数据结构\联合\main.c(11,16): warning C4305: “=”: 从“double”到“float”截断
+H:\WORK\ELEC\C&C++\C学习\数据结构\联合\main.c(12,16): warning C4305: “=”: 从“double”到“float”截断
+H:\WORK\ELEC\C&C++\C学习\数据结构\联合\main.c(4,7): warning C4101: “a”: 未引用的局部变量
   联合.vcxproj -> H:\WORK\ELEC\C&C++\C学习\数据结构\Debug\联合.exe

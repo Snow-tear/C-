@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "复合字面量", "复合�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "联合", "联合\联合.vcxproj", "{061FC860-AD4E-4918-B550-1B64C85C3671}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数指针", "函数指针\函数指针.vcxproj", "{8134F295-E758-4541-9489-DE8391F3B077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{061FC860-AD4E-4918-B550-1B64C85C3671}.Release|x64.Build.0 = Release|x64
 		{061FC860-AD4E-4918-B550-1B64C85C3671}.Release|x86.ActiveCfg = Release|Win32
 		{061FC860-AD4E-4918-B550-1B64C85C3671}.Release|x86.Build.0 = Release|Win32
+		{8134F295-E758-4541-9489-DE8391F3B077}.Debug|x64.ActiveCfg = Debug|x64
+		{8134F295-E758-4541-9489-DE8391F3B077}.Debug|x64.Build.0 = Debug|x64
+		{8134F295-E758-4541-9489-DE8391F3B077}.Debug|x86.ActiveCfg = Debug|Win32
+		{8134F295-E758-4541-9489-DE8391F3B077}.Debug|x86.Build.0 = Debug|Win32
+		{8134F295-E758-4541-9489-DE8391F3B077}.Release|x64.ActiveCfg = Release|x64
+		{8134F295-E758-4541-9489-DE8391F3B077}.Release|x64.Build.0 = Release|x64
+		{8134F295-E758-4541-9489-DE8391F3B077}.Release|x86.ActiveCfg = Release|Win32
+		{8134F295-E758-4541-9489-DE8391F3B077}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
