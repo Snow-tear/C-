@@ -90,3 +90,19 @@ a.out	**可执行文件**
 | -c          | 只编译子程序                 |
 | -E          | 生成预处理文件               |
 | -g          | 包含调试信息                 |
+
+### 各编程语言产生时间
+
+* 1969 – B
+* 1970 – Pascal
+* 1972 – C
+* 1980 – C++
+* 1984 – MATLAB
+* 1991 – Python
+* 1991 – Visual Basic
+* 1993 – Ruby
+* 1995 – Java
+* 1995 – JavaScript
+* 2001 – C#
+* 2001 – Visual Basic .NET
+* 2016 – Kotlin

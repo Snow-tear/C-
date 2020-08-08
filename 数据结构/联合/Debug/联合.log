@@ -1,0 +1,3 @@
+﻿  main.c
+H:\WORK\ELEC\C&C++\C学习\数据结构\联合\main.c(11,16): warning C4305: “=”: 从“double”到“float”截断
+  联合.vcxproj -> H:\WORK\ELEC\C&C++\C学习\数据结构\Debug\联合.exe
