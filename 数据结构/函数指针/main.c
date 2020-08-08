@@ -1,15 +1,13 @@
 #include"main.h"
 int bigger(int a, int b);
 int smaller(int a, int b);
-void compare(int method(int, int), int x, int y);
+void compare(int method(int, int));
 
 int main(int argc, char* argv[]) {
-	compare(bigger, 15, 7);
+	compare(bigger);
 
-	int larger(int a, int b);
-	larger = bigger;
-
-
+	printf("bigger:\t\t%p\n&bigger:\t%p\n*bigger:\t%p\n*********bigger:%p\n",
+		bigger, &bigger, *bigger, *********bigger);
 }
 
 int bigger(int a, int b)
@@ -19,10 +17,10 @@ int bigger(int a, int b)
 
 int smaller(int a, int b)
 {
-	return (a<b)?a:b;
+	return (a < b) ? a : b;
 }
 
-void compare(int method(int, int), int x, int y)
+void compare(int method(int, int))
 {
-	printf("%d", method(x, y));
+	printf("method:\t\t%p\n&method:\t%p\n*method:\t%p\n*********method:%p\n", method,&method,*method,*********method);
 }
