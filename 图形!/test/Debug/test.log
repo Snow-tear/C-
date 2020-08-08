@@ -1,0 +1,5 @@
+﻿  main.c
+H:\WORK\ELEC\C&C++\C学习\图形!\test\main.c(14,10): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“time_t”
+H:\WORK\ELEC\C&C++\C学习\图形!\test\main.c(14,10): message : 请考虑在格式字符串中使用“%lld”
+H:\WORK\ELEC\C&C++\C学习\图形!\test\main.c(14,10): message : 请考虑在格式字符串中使用“%I64d”
+  test.vcxproj -> H:\WORK\ELEC\C&C++\C学习\图形!\Debug\test.exe

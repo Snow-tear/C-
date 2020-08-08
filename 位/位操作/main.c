@@ -11,6 +11,7 @@ int main(int argc, char* argv[]) {
 		unsigned int switch0 : 1;
 		unsigned int switch1 : 1;
 		unsigned int switch2 : 1;
+		unsigned int toobig : 32;
 	}bitfield0;
 
 	bitfield0.switch0 = 0b0;
@@ -18,7 +19,7 @@ int main(int argc, char* argv[]) {
 
 	printf("%d %d\n", bitfield0.switch0, bitfield0.switch1);
 
-	bitfield0.switch0 = 0b1;
+	bitfield0.switch0 = 0b111111;	//如果赋值超过字段大小,会截取最后一位
 
 	printf("%d %d", bitfield0.switch0, bitfield0.switch1);
 }
