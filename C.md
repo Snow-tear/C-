@@ -1,5 +1,20 @@
 # C
 
+## 关键词
+|   auto   |  extern  |  short   |     while      |
+| :------: | :------: | :------: | :------------: |
+|  break   |  float   |  signed  |    _Alignas    |
+|   case   |   for    |  sizeof  |    _Alignof    |
+|   char   |   goto   |  static  |    _Atomic     |
+|  const   |    if    |  struct  |     _Bool      |
+| continue |  inline  |  switch  |    _Complex    |
+| default  |   int    | typedef  |    _Generic    |
+|    do    |   long   |  union   |   _Imaginary   |
+|  double  | register | unsigned |   _Noreturn    |
+|   else   | restrict |   void   | _Static_assert |
+|   enum   |  return  | volatile | _Thread_local  |
+
+
 ## 头文件
 
 C允许重复声明变量和函数, 所以可以反复包含**只有声明的头文件**.
@@ -91,7 +106,7 @@ a.out	**可执行文件**
 | -E          | 生成预处理文件               |
 | -g          | 包含调试信息                 |
 
-### 各编程语言产生时间
+## 各编程语言产生时间
 
 * 1969 – B
 * 1970 – Pascal
@@ -106,3 +121,17 @@ a.out	**可执行文件**
 * 2001 – C#
 * 2001 – Visual Basic .NET
 * 2016 – Kotlin
+
+## 非阻塞输入
+
+在 Windows 系统中，`conio.h`头文件中的`kbhit()`函数就可以用来实现非阻塞式键盘监听。
+
+用户每按下一个键，都会将对应的字符放到输入缓冲区中，kbhit() 函数会检测缓冲区中是否有数据，如果有的话就返回非 0 值，没有的话就返回 0 值。但是 kbhit() 不会读取数据，数据仍然留在缓冲区，所以一般情况下我们还要结合输入函数将缓冲区种的数据读出。
+
+```C
+if(kbhit()) //检测缓冲区中是否有数据
+ch = getch(); //将缓冲区中的数据以字符的形式读出
+```
+
+## #difine
+

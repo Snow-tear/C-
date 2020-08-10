@@ -1,2 +1,5 @@
 ﻿  main.c
+H:\WORK\ELEC\C&C++\C学习\数据结构\Openjudge 生日相同\main.c(5,439): warning C4090: “函数”: 不同的“const”限定符
+H:\WORK\ELEC\C&C++\C学习\数据结构\Openjudge 生日相同\main.c(5,439): warning C4028: 形参 1 与声明不同
+H:\WORK\ELEC\C&C++\C学习\数据结构\Openjudge 生日相同\main.c(5,439): warning C4028: 形参 2 与声明不同
   Openjudge 生日相同.vcxproj -> H:\WORK\ELEC\C&C++\C学习\数据结构\Debug\Openjudge 生日相同.exe

@@ -2,4 +2,8 @@
 #include<math.h>
 #pragma warning(disable:4996)
 
-main() { int a; scanf("%d", &a); printf("%.f", pow(2, a)); }
+int main(void) {
+	float a;
+	a = tgammaf(50);
+	printf("%f", a);
+}
