@@ -1,0 +1,4 @@
+﻿  main.c
+H:\WORK\ELEC\C&C++\C学习\预处理器\define\main.c(5,1): warning C4005: “b”: 宏重定义
+H:\WORK\ELEC\C&C++\C学习\预处理器\define\main.c(4): message : 参见“b”的前一个定义
+  define.vcxproj -> H:\WORK\ELEC\C&C++\C学习\预处理器\Debug\define.exe
