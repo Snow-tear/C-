@@ -1,0 +1,2 @@
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\静态库.pdb
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\静态库\Debug\静态库.pdb

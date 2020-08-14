@@ -1,0 +1,33 @@
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\SamplePixelShader.cso
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\SampleVertexShader.cso
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\Assets\LockScreenLogo.scale-200.png
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\Assets\SplashScreen.scale-200.png
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\Assets\Square150x150Logo.scale-200.png
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\Assets\Square44x44Logo.scale-200.png
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\Assets\StoreLogo.png
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\Assets\Wide310x150Logo.scale-200.png
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\App.xbf
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\DirectXPage.xbf
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\resources.pri
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\AppxManifest.xml
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\Debug\DirectX 11 和 XAML 应用\DirectX 11 和 XAML 应用.build.appxrecipe
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\XamlSaveStateFile.xml
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\ResourceHandlingTask.state
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\DirectX 11 和 XAML 应用.vcxproj.GenerateResource.Cache
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\priconfig.xml
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\priconfig.xml.intermediate
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\unfiltered.layout.resfiles
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\unfiltered.layout.resfiles.intermediate
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\filtered.layout.resfiles
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\filtered.layout.resfiles.intermediate
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\excluded.layout.resfiles
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\excluded.layout.resfiles.intermediate
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\resources.resfiles
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\resources.resfiles.intermediate
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\pri.resfiles
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\pri.resfiles.intermediate
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\qualifiers.txt
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\qualifiers.txt.intermediate
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\WORK\ELEC\C&C++\C学习\VS项目探索\DirectX 11 和 XAML 应用\Debug\ProjectArchitectures.txt

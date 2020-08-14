@@ -1,0 +1,2 @@
+﻿#define WINDOWS2_API __declspec(dllexport)
+#define WINDOWS2_API __declspec(dllimport)
